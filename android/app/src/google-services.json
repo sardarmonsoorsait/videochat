@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "550327296503",
+    "project_id": "video-call-9710b",
+    "storage_bucket": "video-call-9710b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550327296503:android:92576e4a45d82ce9430ef2",
+        "android_client_info": {
+          "package_name": "com.example.doctor_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550327296503-rf2gq70aipdplha61vl1llcmm1dnholr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOIw26pb0LqRNE3SS7nhnb1VLT-zaVYYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550327296503-rf2gq70aipdplha61vl1llcmm1dnholr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550327296503:android:eed444b40ae65ac1430ef2",
+        "android_client_info": {
+          "package_name": "com.example.user_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550327296503-rf2gq70aipdplha61vl1llcmm1dnholr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOIw26pb0LqRNE3SS7nhnb1VLT-zaVYYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550327296503-rf2gq70aipdplha61vl1llcmm1dnholr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
